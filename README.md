@@ -3,6 +3,6 @@ tanto na faculdade quanto estudando por conta própria.
 
 
 - 🔭front-end(apesar de também ter aprendido o back-end)
-- 🌱 Atualment Pocurando aprender python
+- 🌱 Atualmente Pocurando aprender python
 - 😄 Pronouns: Ele/Dele
 
